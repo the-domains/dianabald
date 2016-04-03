@@ -1,4 +1,4 @@
-name: DianaBald
+name: Diana Bald
 favicon: null
 layout_spectrum: 0.61974918958731
 typography_spectrum: 0.0019967099651694298
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.9355799618642777
-  lightness: 0.46092759049497545
-  saturation: 0.6853995118290186
-  rhythmicContrast: 0.7858070451766253
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
